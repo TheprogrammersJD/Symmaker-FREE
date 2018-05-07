@@ -1,0 +1,21 @@
+{
+  "name": "Symmaker FREE",
+  "description": "A free, open-source symmetrical drawing creator!",
+  "website": "https://github.com/TheprogrammersJD/Symmaker-FREE",
+  "repository": "https://github.com/TheprogrammersJD/Symmaker-FREE",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
