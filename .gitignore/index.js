@@ -19,11 +19,11 @@ io.on('connection', function(socket){
   });
 	
   
-	setInterval(function(){
-		if(bugsliving < 10000){
+	//setInterval(function(){
+		//if(bugsliving < 10000){
 			//socket.emit('bugs', buggeesx[bbuugg], buggeesy[bbuugg], buggeesalive[bbuugg]);
-		}
-	}, 100);
+		//}
+	//}, 100);
 	
 	
 	
